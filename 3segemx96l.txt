@@ -1,0 +1,1 @@
+this text will be inside every file
